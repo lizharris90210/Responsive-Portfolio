@@ -1,0 +1,241 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+    background: url("data:image/jpeg;base64,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");
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* general */
+  
+  .container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+  }
+  
+  h1,
+  h2,
+  h3,
+  p {
+    margin-bottom: 20px;
+  }
+  
+  p:last-child {
+    margin-bottom: 0;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+  }
+  
+  h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #dddddd;
+  }
+  
+  h2,
+  h3 {
+    font-size: 22px;
+  }
+  
+  /* header */
+  
+  #masthead {
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin: 0 0 30px;
+    overflow: auto;
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
+  }
+  
+  #logo {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+  }
+  
+  nav {
+    float: right;
+    margin-top: 25px;
+  }
+  
+  nav a {
+    display: inline-block;
+    padding-left: 15px;
+    margin-left: 15px;
+    line-height: 18px;
+    color: #999;
+    text-decoration: none;
+    border-left: 1px solid #efefef;
+  }
+  
+  nav a:first-child {
+    border-left: 0 none;
+  }
+  
+  /* footer */
+  
+  footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
+  
+  h3, h2 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eeeeee;
+  }
+  
+  /* main */
+  
+  #main-container {
+    padding-top: 130px;
+    min-height: calc(100vh - 70px);
+  }
+  
+  .main-section {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #ffffff;
+    border: 1px solid #dddddd;
+  }
+  
+  /* portfolio page */
+  
+  .work {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+  }
+  
+  .work:nth-child(even) {
+    margin-right: 40px;
+  }
+  
+  .work img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+  }
+  
+  .work h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+  }
+  
+  .auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+  
+  /* contact page */
+  
+  #contact-form ul {
+    margin-bottom: 20px;
+  }
+  
+  #contact-form li {
+    margin-bottom: 10px;
+  }
+  
+  label,
+  input[type=text],
+  input[type=email],
+  textarea {
+    display: block;
+    width: 100%;
+  }
+  
+  input[type=text],
+  input[type=email],
+  textarea {
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+  }
+  
+  textarea {
+    height: 200px;
+  }
+  
+  input[type=submit] {
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #ffffff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+  }
+  
+
+/* Media Queries */
+
+/*Phone*/
+@media {
+  max-width: 640px;
+}
+/*Tablet*/
+@media {
+  max-width: 768px 
+}
+/*Desktop*/
+@media {
+  max-width: 980px;
+}
+  .wrapper {
+    width: 100%;
+  }
+
+  .main-content {
+    width: 100%;
+  }
+} 
