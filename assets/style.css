@@ -3,7 +3,9 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("data:image/jpeg;base64,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");
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0GMMojZwgDSOTk6MVOh_pgrkGdEJKXbRGtPfRLYfdgb7dATN");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
   
   * {
@@ -48,6 +50,10 @@ body {
   h2,
   h3 {
     font-size: 22px;
+  }
+
+  .main-container {
+
   }
   
   /* header */
@@ -108,6 +114,7 @@ body {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
+    justify-content: center;
   }
   
   h3, h2 {
@@ -188,19 +195,30 @@ body {
   
   label,
   input[type=text],
-  input[type=email],
+  input[id=name],
   textarea {
     display: block;
     width: 100%;
   }
   
   input[type=text],
-  input[type=email],
+  input[id=email],
   textarea {
     height: 35px;
     padding: 0 10px;
     font-size: 14px;
     border: 1px solid #dddddd;
+    width: 50%;
+  }
+  
+  
+  input[id=message],
+  textarea {
+    height: 100px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #dddddd;
+    width: 50%;
   }
   
   textarea {
@@ -215,27 +233,44 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
-  
 
 /* Media Queries */
 
 /*Phone*/
-@media {
-  max-width: 640px;
+@media screen and (max-width: 640px) {
+    header,
+    #logo {
+      position: static; 
+      margin-right: 20px;
+      width: 100%;
+      justify-content: center;
+      }
+      
+    nav {
+      position: static;
+      float: left;
+      margin-left: 20px;
+      justify-content: center;
+      width: 100%;
+    }
+    .main-container,
+    h3,
+    h2,
+    h1 {
+      position: static;
+      float: left ;
+      justify-content: center;
+      width: 100%;
+      margin: 20px 20px 20px 20px;
+    }
+    }
 }
-/*Tablet*/
-@media {
-  max-width: 768px 
-}
-/*Desktop*/
-@media {
-  max-width: 980px;
-}
-  .wrapper {
-    width: 100%;
-  }
 
-  .main-content {
-    width: 100%;
-  }
-} 
+/*Tablet*/
+@media screen and (max-width: 768px) {
+}
+
+/*Desktop*/
+@media screen and (max-width: 980px) {
+}
+
